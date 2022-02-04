@@ -19,8 +19,8 @@ def print_hello():
 
 # line 20
 
-
-
+def print_bye():
+	print("Bye!")
 
 
 
@@ -30,3 +30,4 @@ def print_hello():
  # line 30
 print_hello()
 print_yo()
+print_bye()
