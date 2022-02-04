@@ -1,5 +1,5 @@
-
-
+def print_yo():
+	print("Yo!")
 
 
 
@@ -29,3 +29,4 @@ def print_hello():
 
  # line 30
 print_hello()
+print_yo()
